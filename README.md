@@ -3,7 +3,7 @@ Interactive Calender
 
 # Interactive Calender.
 
-#### By Abhimanyu Singh.
+#### By Namit Singh.
 
 #### This webpage is showing an interactive calender.
 
@@ -45,7 +45,7 @@ I enjoyed the phase leaning from theory to practicle. Definitely these technolog
 ## Author
 
 - Author name: 
-Abhimanyu Singh.
+Namit Singh.
 
 
 Key Features:
